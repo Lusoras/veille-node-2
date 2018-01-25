@@ -3,3 +3,8 @@
   display: flex;
   flex-direction: column;
 }
+
+.txtpricip{
+	text-align:center;
+	font-size:10px;
+}
