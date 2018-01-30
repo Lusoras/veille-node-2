@@ -1,3 +1,4 @@
 git remote add origin https://github.com/Lusoras/veille-node.git
 git push -u origin master
 git add. //indexer ensemble des fichiers modifiés
+git commit -m "texte"
